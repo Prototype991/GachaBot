@@ -1,0 +1,7 @@
+1.7.0 :
+
+1. Resolvido Bug No Modo De Espera
+2. Reinscrito Todo o Código-Fonte
+3. Adaptado o Código Para o Modelo Tkinter
+4. Aumentado Proteção Contra Hacking No Código-Fonte
+5. Removido Modo De Depuração
