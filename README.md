@@ -2,4 +2,4 @@
 
 What Is GachaBot?
 
-GachaBot is a Bot for automation on the bot dicord (Gachapon)
+GachaBot is an Automation Bot from the bot on dicord (Gachapon)
