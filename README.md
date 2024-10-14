@@ -26,7 +26,7 @@ There will be support for other resolutions in the future
 ## Download
 
 Download Here:
-https:???
+https:https://drive.google.com/file/d/1fc7mdLYVQbzjdMvva7J00x494lO47ppx/view?usp=sharing
 
 ## Discord
 
