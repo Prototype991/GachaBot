@@ -7,9 +7,9 @@ For now the Bot is only in the PT-BR language
 
 ## Dependencies
 
-You Just Need To Install Python, The Rest Is Automatically Installed
-In The Files has a Directory Called "Install Python Guide"
-There Show You What Version You Need To Install
+You Just Need To Install Python, The Rest Is Automatically Installed.
+In The Files has a Directory Called "Install Python Guide",
+There Show You What Version You Need To Install.
 
 ## Download
 
