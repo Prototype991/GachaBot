@@ -35,7 +35,7 @@ This is Showed When You Dont Have a Key<br>
 > Download
 
 Download Here:<br>
-https://drive.google.com/file/d/1fc7mdLYVQbzjdMvva7J00x494lO47ppx/view?usp=sharing
+
 
 > Discord
 
