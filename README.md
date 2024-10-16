@@ -27,13 +27,13 @@ There will be support for other resolutions in the future<br>
 
 ## The Interface
 
-This is The Initial Screen<br>
+>This is The Initial Screen<br>
 ![Captura de tela 2024-10-14 215711](https://github.com/user-attachments/assets/465bc359-7c0d-4992-8ad8-490c7def16e6)<br>
 
-This is The Configuration Screen<br>
+>This is The Configuration Screen<br>
 ![Captura de tela 2024-10-16 130532](https://github.com/user-attachments/assets/d32b5689-c3f5-4063-a387-be352cacce55)<br>
 
-This is Showed When You Dont Have a Key<br>
+>This is Showed When You Dont Have a Key<br>
 ![Captura de tela 2024-10-14 215951](https://github.com/user-attachments/assets/50492654-cee1-4a88-87e9-bad7cd5ffcc9)<br>
 
 ## Download
