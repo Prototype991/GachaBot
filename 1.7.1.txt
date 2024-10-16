@@ -1,9 +1,0 @@
-1.7.1 :
-
-1. Fixed Critical Bug in Waiting Mode
-2. Fixed Critical Bug in Settings
-3. Fixed Critical Bug in Grab Mode
-4. Added Half-Drop on the Waiting Screen
-5. Added Half-Grab on the Waiting Screen
-6. Swapped the Positions of Cards Collected and User on the Waiting Screen
-7. Added a Delay After Dropping
