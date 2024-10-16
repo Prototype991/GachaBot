@@ -2,8 +2,12 @@
 
 > What Is GachaBot?
 
-Gachabot is an automation bot for discord bot (Gachapon)<br>
-For now the Bot is only in the PT-BR language<br>
+Gachabot is an Automation Bot for Discord bot (Gachapon).<br>
+
+>What It Does?
+
+GachaBot Can Drop and Grab The Cards Automatically<br>
+Controlling the Mouse and Using the Computer Graphical Interface.<br>
 
 ## Dependencies
 
