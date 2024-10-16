@@ -1,6 +1,6 @@
 # GachaBot
 
-## What Is GachaBot?
+> What Is GachaBot?
 
 Gachabot is an automation bot for discord bot (Gachapon)<br>
 For now the Bot is only in the PT-BR language<br>
