@@ -13,6 +13,7 @@ Controlling the Mouse and Using the Computer Graphical Interface.<br>
 
 You Just Need To Install Python, The Rest Is Automatically Installed.<br>
 In The Files has a Directory Called "Install Python Guide", There Show You What Version You Need To Install.<br>
+<br>
 If The GachaBot.exe Dont Install The Dependencies You Will Need To Run This Command In The CMD:<br>
 <br>
 ```
