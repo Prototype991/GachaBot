@@ -16,7 +16,7 @@ In The Files has a Directory Called "Install Python Guide", There Show You What 
 <br>
 If The GachaBot Dont Install The Dependencies You Will Need To Run This Command In The CMD:<br>
 <br>
-```
+```python
 pip install pyautogui pygetwindow opencv-python opencv-python-headless numpy pillow pytesseract requests
 ```
 That Will Install All Dependencies That GachaBot Need In Python
