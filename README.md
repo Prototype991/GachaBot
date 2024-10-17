@@ -50,4 +50,4 @@ Download Here:<br>
 ## Discord
 
 Discord Server For More Information:<br>
-https://discord.gg/QgTZ2Ackmn
+[GachaBot Server](https://discord.gg/QgTZ2Ackmn)
