@@ -1,6 +1,0 @@
-1.7.2 :
-
-1. Reduced Previously Added Delay
-2. Removed Discord Bot System
-3. Added System to Save IP in the Key
-4. Fixed Minor Bugs
