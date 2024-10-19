@@ -1,0 +1,4 @@
+1.7.3 :
+
+1. Resolved Some Critical Bugs in Standby Mode
+2. Changed Some Values in Character Detection
