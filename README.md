@@ -4,7 +4,9 @@ STATUS : Development ⚠️
 
 > What Is GachaBot?
 
-GachaBot is an automated bot designed to interact with the Gacha system on Discord. It performs actions like "drop" and "grab" cards automatically based on user-defined settings. The bot verifies license keys to ensure authenticity, uses screen detection to identify graphical elements, and logs detailed updates. GachaBot is configurable through a graphical interface and supports multiple features like half-drop and half-grab, as well as protection against duplicate key usage.
+GachaBot is an automated bot designed to interact with the Gacha system on Discord. It performs actions like "drop" and "grab" cards automatically based on user-defined settings. The bot verifies license keys to ensure authenticity, uses screen detection to identify graphical elements, and logs detailed updates. GachaBot is configurable through a graphical interface and supports multiple features like half-drop and half-grab, as well as protection against duplicate key usage.<br>
+
+Currently, it only supports the Gachapon bot on Discord.
 
 ## Dependencies
 
