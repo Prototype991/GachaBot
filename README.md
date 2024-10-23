@@ -21,7 +21,13 @@ in addition the key is paid but if you are interested you can have a free key Fo
 ## Support
 
 The Bot Does Not Support All Operating Systems or Resolutions Since It Was Made in a Sensitive Way<br>
-At the moment the Bot Supports Windows Operating System With 1920x1080 or 1366x768 Resolutions<br>
+At the moment the Bot Supports Windows Operating System With Resolutions:
+1920x1080, 
+1366x768, 
+1280x720, 
+1280x600, 
+1152x864, 
+1024x768 <br>
 There will be support for other resolutions in the future<br>
 
 ## The Interface
