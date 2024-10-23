@@ -1,0 +1,7 @@
+1.7.4 :
+
+1. Added System to Change the IP Registered on the Key Itself
+2. Added Key Locking System
+3. Added Support for Resolutions 1280x720, 1280x600, 1152x864, 1024x768
+4. Added New Automatic Installation Method
+5. Added Automatic Update System
