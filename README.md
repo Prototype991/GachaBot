@@ -27,7 +27,7 @@ At the moment the Bot Supports Windows Operating System With Resolutions:<br>
 1280x720, <br>
 1280x600, <br>
 1152x864, <br>
-1024x768 <br>
+1024x768 <br><br>
 There will be support for other resolutions in the future<br>
 
 ## The Interface
