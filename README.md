@@ -38,7 +38,7 @@ There will be support for other resolutions in the future<br>
 ## Download
 
 Download Here:<br>
-[Install GachaBot](https://drive.google.com/file/d/1t9j7MaRK3e1FMEGWtRGkhfa1Xb2Ls055/view?usp=sharing)
+[Install GachaBot](https://drive.google.com/file/d/1LZRw1LNgWb6zqPMen_74jsCuPz0bKoR6/view?usp=sharing)
 
 ## Discord
 
