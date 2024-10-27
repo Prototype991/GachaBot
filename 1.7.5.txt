@@ -1,0 +1,7 @@
+1.7.5 :
+
+1. Fixed a bug where the config.txt was being deleted.
+2. Changed the behavior of the 'GG' functionality. Instead of saying 'Yes' or 'No' for the previous action, it will now indicate for the next action.
+3. GachaBot will no longer be paid in this version.
+4. Removed key functionality from the system and deleted the IP database.
+5. Removed sensitive information from the source code.
